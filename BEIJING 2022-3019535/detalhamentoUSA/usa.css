@@ -1,0 +1,33 @@
+
+.nome{
+font-size: 70px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(77, 75, 197);
+}
+
+body{
+background-image: url(./imgusa/USA.png);
+background-size: cover;
+
+}
+
+ .medalhas{
+font-size: 200px;
+
+ }
+ a:link {
+    color: rgb(214, 242, 255);
+    text-decoration: none;
+      
+  }
+  a:visited {
+    text-decoration: none;
+    color:white;
+    }
+    a:active {
+        color:rgb(153, 222, 253);
+      }
+      
+a:hover {
+    color: rgb(153, 222, 253);
+  }
